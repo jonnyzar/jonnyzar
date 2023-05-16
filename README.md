@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Yan</h2>
+<h2>Welcome</h2>
 
 - 🔭 &nbsp; I like to learn about new technologies, astronomy and develop ethical hacking software.
 - 🌱 &nbsp; My goal is to grow as conscious human beeing and be in harmony with this wolrd.
